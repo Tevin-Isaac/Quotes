@@ -8,6 +8,7 @@ import { HomeComponent } from './routes/home.component';
 import { BasicComponent } from './routes/basic.component';
 import { ContainedComponent } from './routes/contained.component';
 import { AdvancedComponent } from './routes/advanced.component';
+import { QuoteComponent } from './quote/quote.component';
 
 const animationRoutes:Routes = [
   {
@@ -39,7 +40,8 @@ const animationRoutes:Routes = [
     HomeComponent,
     BasicComponent,
     ContainedComponent,
-    AdvancedComponent
+    AdvancedComponent,
+    QuoteComponent
   ],
   imports: [
     BrowserModule,
