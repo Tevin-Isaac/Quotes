@@ -3,6 +3,8 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   template: `
+  templateUrl: './app.component.html',
+
     <nav class="navbar navbar-toggleable-sm fixed-top navbar-inverse mb-4" style="background-color:#5c2509;">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
                 data-target="#main-nav" aria-controls="main-nav" aria-expanded="false"
@@ -28,7 +30,7 @@ import { Component } from '@angular/core';
         </div>
     </nav>
     <div class="page">
-        <router-outlet></router-outlet>
+       
     </div>
   `,
   styles: [``]

@@ -1,11 +1,27 @@
 * You can add global styles to this file, and also import other style files */
 
-body {
-    background-color: #66e02d;
-    padding:2rem;
-    color:#cccccc;
-    margin-top:44px;
-}
+
 hr {
     border-top: 1px solid rgba(107, 107, 107, 1);
 }
+
+
+html {
+  --primary-color: #FDD202;
+}
+
+body {
+  font-family: 'Rokkitt', serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #FDD202;
+  margin-top:44px;
+  padding:2rem;
+}
+
+.text-align-right {
+  text-align: right;
+}
+
