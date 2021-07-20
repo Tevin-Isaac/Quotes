@@ -10,7 +10,7 @@ import { Quote } from '../quote'
 export class QuoteComponent implements OnInit {
   quotes = [
 
-    new Quote(1, "Indira Gandhi", "You cannot shake hands with a clenched fist", new Date(2016.11, 15)),
+    new Quote(1, " Steve Jobs", "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking", new Date(2021.20, 15)),
 
     
    
