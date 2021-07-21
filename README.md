@@ -5,6 +5,8 @@ This is agular cli application that displays quotes, allow the user to input new
 
 ## Live Page
 https://github.com/Tevin-creator/Quotes
+![Screenshot from 2021-07-21 15-41-12 copy](https://user-images.githubusercontent.com/81568615/126492449-bdea674e-57d1-4080-9af0-3511e19ed620.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
