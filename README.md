@@ -4,7 +4,7 @@
 This is agular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote.
 
 ## Live Page
-https://github.com/Tevin-creator/Quotes
+https://tevin-creator.github.io/Quotes/
 ![Screenshot from 2021-07-21 15-41-12 copy](https://user-images.githubusercontent.com/81568615/126492449-bdea674e-57d1-4080-9af0-3511e19ed620.png)
 
 
@@ -58,5 +58,5 @@ If you have any question or contributions, please email me at [isaactevin@yahoo.
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Tevin Isaac**
+* Copyright (c) 2021 **Tevin Isaac**
 
