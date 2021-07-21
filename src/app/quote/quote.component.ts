@@ -15,7 +15,7 @@ export class QuoteComponent implements OnInit {
     
    
   ]
-  deleteQuote(isComplete,index){
+  deleteQuote(isComplete:any,index:any){
     if (isComplete){
       let toDelete=confirm('Are you sure you want to delete quote')
       if(toDelete){
@@ -24,7 +24,7 @@ export class QuoteComponent implements OnInit {
     }
   }
 
-    addNewQuote(quote){
+    addNewQuote(quote:any){
         let quoteLength = this.quotes.length;
         quote.id=quoteLength+1;
         quote.completeDate = new Date(quote.completeDate)
